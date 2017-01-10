@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2015\Projects\Plaksin006\Plaksin006\bin\Debug\Plaksin006.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Plaksin006\Plaksin006\bin\Debug\Plaksin006.exe
+c:\users\user\documents\visual studio 2015\Projects\Plaksin006\Plaksin006\bin\Debug\Plaksin006.pdb
+c:\users\user\documents\visual studio 2015\Projects\Plaksin006\Plaksin006\obj\Debug\Plaksin006.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Plaksin006\Plaksin006\obj\Debug\Interop.ACTIVEXLib.dll
+c:\users\user\documents\visual studio 2015\Projects\Plaksin006\Plaksin006\obj\Debug\Plaksin006.csproj.ResolveComReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Plaksin006\Plaksin006\obj\Debug\Plaksin006.exe
+c:\users\user\documents\visual studio 2015\Projects\Plaksin006\Plaksin006\obj\Debug\Plaksin006.pdb
